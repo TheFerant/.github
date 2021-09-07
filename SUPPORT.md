@@ -1,0 +1,1 @@
+If you are using [ferant.io](https://ferant.io), the SaaS product, please visit [ferant.io/support](https://ferant.io/support) for any support needs. If you are using the open source version, you can use our [community forums](https://forum.ferant.io/).
